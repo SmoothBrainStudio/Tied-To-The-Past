@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "FOUNTAIN",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 196,
+      "y": 620
+    }
+  },
+  "animation": [
+    {
+      "texture": "FOUNTAIN_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "FOUNTAIN_1",
+      "duration": 0.3
+    },
+    {
+      "texture": "FOUNTAIN_2",
+      "duration": 0.3
+    },
+    {
+      "texture": "FOUNTAIN_3",
+      "duration": 0.3
+    },
+    {
+      "texture": "FOUNTAIN_4",
+      "duration": 0.3
+    }
+  ]
+}

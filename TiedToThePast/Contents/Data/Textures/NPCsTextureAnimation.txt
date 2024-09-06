@@ -1,0 +1,10 @@
+LILBOO_IDLEFRONT_0 Contents/Assets/Sprites/Entities/NPCs/LilBoo/idle_front_0.png
+LILBOO_IDLEFRONT_1 Contents/Assets/Sprites/Entities/NPCs/LilBoo/idle_front_1.png
+LILBOO_IDLEFRONT_2 Contents/Assets/Sprites/Entities/NPCs/LilBoo/idle_front_2.png
+LILBOO_IDLEFRONT_3 Contents/Assets/Sprites/Entities/NPCs/LilBoo/idle_front_3.png
+SAVEPOINT Contents/Assets/Sprites/Entities/Interactables/SavePoint.png
+OWL_0 Contents/Assets/Sprites/Entities/NPCs/Owl/owl_0.png
+OWL_1 Contents/Assets/Sprites/Entities/NPCs/Owl/owl_1.png
+OWL_2 Contents/Assets/Sprites/Entities/NPCs/Owl/owl_2.png
+OWL_3 Contents/Assets/Sprites/Entities/NPCs/Owl/owl_3.png
+OWL_4 Contents/Assets/Sprites/Entities/NPCs/Owl/owl_4.png

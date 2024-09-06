@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "LIGHTNING",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "LIGHTNING_0",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_1",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_2",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_3",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_4",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_5",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_6",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_7",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_8",
+      "duration": 0.01
+    },
+    {
+      "texture": "LIGHTNING_9",
+      "duration": 0.01
+    }
+  ]
+}

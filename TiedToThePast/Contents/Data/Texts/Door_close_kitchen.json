@@ -1,0 +1,39 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "Looks like we closed\nthe "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#804000",
+        "value": "door "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "behind us..."
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

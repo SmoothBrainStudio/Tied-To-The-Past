@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "ZOMBIE_IDLE_FRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "ZOMBIE_IDLEFRONT_0",
+      "duration": 0.25
+    },
+    {
+      "texture": "ZOMBIE_IDLEFRONT_1",
+      "duration": 0.25
+    },
+    {
+      "texture": "ZOMBIE_IDLEFRONT_2",
+      "duration": 0.25
+    },
+    {
+      "texture": "ZOMBIE_IDLEFRONT_3",
+      "duration": 0.25
+    }
+  ]
+}

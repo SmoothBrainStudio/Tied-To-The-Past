@@ -1,0 +1,38 @@
+{
+  "data": {
+    "name": "CANDLE_DODGE_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_DODGE_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_DODGE_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_DODGE_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_DODGE_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_DODGE_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_DODGE_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_DODGE_6",
+      "duration": 0.1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "SMOKE",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "SMOKE_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SMOKE_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SMOKE_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SMOKE_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SMOKE_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "SMOKE_5",
+      "duration": 0.1
+    }
+  ]
+}

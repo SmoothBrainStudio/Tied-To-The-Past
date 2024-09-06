@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "SAVE_POINT",
+    "speed": 0.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "SAVEPOINT",
+      "duration": 0.2
+    }
+  ]
+}

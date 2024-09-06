@@ -1,0 +1,4 @@
+IS_DIALOG
+Contents/Data/Texts/Frankenchief0.json
+Contents/Data/Texts/Frankenchief1.json
+Contents/Data/Texts/Frankenchief2.json

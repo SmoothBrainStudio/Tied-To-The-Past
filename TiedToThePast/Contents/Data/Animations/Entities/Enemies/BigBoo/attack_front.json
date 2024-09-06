@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "BIGBOO_ATTACK_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_0",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_1",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_2",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_3",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_4",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_5",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_6",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_7",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_8",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_9",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_10",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_9",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_8",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_7",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_ATTACK_FRONT_6",
+      "duration": 0.09
+    }
+  ]
+}

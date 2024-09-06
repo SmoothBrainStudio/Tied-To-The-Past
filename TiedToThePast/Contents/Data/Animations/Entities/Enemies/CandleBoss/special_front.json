@@ -1,0 +1,54 @@
+{
+  "data": {
+    "name": "CANDLEBOSS_SPECIAL",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "CANDLEBOSS_SPECIAL_0",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_1",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_2",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_3",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_4",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_5",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_6",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_7",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_8",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_9",
+      "duration": 0.09
+    },
+    {
+      "texture": "CANDLEBOSS_SPECIAL_10",
+      "duration": 0.09
+    }
+  ]
+}

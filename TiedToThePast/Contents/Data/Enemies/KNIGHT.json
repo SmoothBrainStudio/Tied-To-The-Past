@@ -1,0 +1,128 @@
+{
+  "patrolType": 1,
+  "patrolRadius": 75.0,
+  "hp": 95.0,
+  "speed": 210.0,
+  "attack": 17.0,
+
+  "timerWhileAttackingMax": 1.0,
+  "timerBeforeAttackMax": 2.0,
+
+  "totalDodgeTime": 1.0,
+  "dodgePercentTime": 80,
+  "counterPercentTime": 50,
+  "scope": 300.0,
+  "speedMultiplier": 2.2,
+
+  "collideBox": {
+    "width": 126.0,
+    "height": 289.0
+  },
+
+  "animations": [
+    {
+      "state": 0,
+      "path": "Contents/Data/Animations/Entities/Enemies/Knight/idle_front.json"
+    },
+    {
+      "state": 1,
+      "path": "Contents/Data/Animations/Entities/Enemies/Knight/move_down.json"
+    },
+    {
+      "state": 2,
+      "path": "Contents/Data/Animations/Entities/Enemies/Knight/attack_front.json"
+    },
+    {
+      "state": 3,
+      "path": "Contents/Data/Animations/Entities/Enemies/Knight/damage_front.json"
+    },
+    {
+      "state": 4,
+      "path": "Contents/Data/Animations/Entities/Enemies/Knight/idle_fight.json"
+    }
+  ],
+
+  "effects": [
+    {
+      "id": 1,
+      "probability": 1.0
+    },
+    {
+      "id": 6,
+      "probability": 0.15
+    }
+  ],
+
+  "resistances": [
+    {
+      "id": 0, //fire attack
+      "coef": 1.0
+    },
+    {
+      "id": 1, //physic attack
+      "coef": 0.7
+    },
+    {
+      "id": 2, //magic attack
+      "coef": 1.0
+    }
+  ],
+
+  "immunities": [
+    {
+      "id": 0, //BURNING
+      "isImmune": false
+    },
+    {
+      "id": 1, //BLEEDING
+      "isImmune": false
+    },
+    {
+      "id": 2, //POISON
+      "isImmune": false
+    },
+    {
+      "id": 3, // ATK_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 4, //ATK_BREAK
+      "isImmune": false
+    },
+    {
+      "id": 5, //DEF_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 6, //DEF_BREAK
+      "isImmune": false
+    },
+    {
+      "id": 7, //IMMUNITY
+      "isImmune": false
+    },
+    {
+      "id": 8, //ANTI_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 9, //STUN
+      "isImmune": false
+    }
+  ],
+
+  "loot": [
+    {
+      "id": "POTION",
+      "type": "CONSUMABLE",
+      "nbMax": 3,
+      "probabilities": 0.1
+    }
+  ],
+
+  "CandiesLootMin": 15,
+  "CandiesLootMax": 25,
+  "attackType": 1, //physic attack
+
+  "fightMinigame": 0
+}

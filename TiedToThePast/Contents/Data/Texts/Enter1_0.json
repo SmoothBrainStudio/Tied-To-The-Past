@@ -1,0 +1,43 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "These "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#FF8000",
+        "value": "ties "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "have a magical power.\nDon't you like it?"
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "outline": {
+        "thickness": 0,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

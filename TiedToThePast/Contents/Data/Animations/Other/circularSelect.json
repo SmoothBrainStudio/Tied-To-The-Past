@@ -1,0 +1,18 @@
+{
+  "data": {
+    "name": "CIRCULAR_SELECT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "CIRCULAR_PIECE_0",
+      "duration": 1.0
+    },
+    {
+      "texture": "CIRCULAR_PIECE_1",
+      "duration": 1.0
+    }
+  ]
+}

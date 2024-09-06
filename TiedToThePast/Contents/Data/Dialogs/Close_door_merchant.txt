@@ -1,0 +1,2 @@
+IS_DIALOG
+Contents/Data/Texts/Door_close_merchant_1.json

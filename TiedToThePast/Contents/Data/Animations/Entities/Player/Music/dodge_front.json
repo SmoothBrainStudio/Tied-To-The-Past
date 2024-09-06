@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "MUSIC_DODGE",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "MUSIC_DODGE_0",
+      "duration": 1.0
+    }
+  ]
+}

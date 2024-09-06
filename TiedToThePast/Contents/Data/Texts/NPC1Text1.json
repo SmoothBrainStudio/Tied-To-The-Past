@@ -1,0 +1,48 @@
+{
+  "text": {
+    "content": [
+      {
+        "value": "Salut " 
+      },
+      {
+        "value": "comment",
+        "color": "#00ff00",
+        "bold": true,
+        "italic": true,
+        "underlined": true,
+        "strikethrough": true
+      },
+      {
+        "value": " tu " 
+      },
+      {
+        "value": "vas\n",
+        "bold": true
+      },
+      {
+        "value": "le",
+        "underlined": true,
+        "color": "#0000ff"
+      },
+      {
+        "value": " sang"
+      },
+      {
+        "value": "\nle text est un ex"
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 20,
+      "animation": {
+        "timeByCharacter": 100
+      },
+      "outline": {
+        "thickness": 0,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

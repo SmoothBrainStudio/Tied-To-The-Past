@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "FRANKENCHIEF_MOVEDOWN",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "FRANKENCHIEF_MOVEDOWN_0",
+      "duration": 0.25
+    },
+    {
+      "texture": "FRANKENCHIEF_MOVEDOWN_1",
+      "duration": 0.25
+    },
+    {
+      "texture": "FRANKENCHIEF_MOVEDOWN_2",
+      "duration": 0.25
+    },
+    {
+      "texture": "FRANKENCHIEF_MOVEDOWN_3",
+      "duration": 0.25
+    }
+  ]
+}

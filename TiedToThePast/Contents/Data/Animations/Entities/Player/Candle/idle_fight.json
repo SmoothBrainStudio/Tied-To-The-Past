@@ -1,0 +1,46 @@
+{
+  "data": {
+    "name": "IDLE_FIGHT_FRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_7",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_IDLE_FIGHT_FRONT_8",
+      "duration": 0.1
+    }
+  ]
+}

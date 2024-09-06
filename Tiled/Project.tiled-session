@@ -1,0 +1,301 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets",
+        "World",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Maps",
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled",
+        "Templates",
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps",
+        ".",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled"
+    ],
+    "fileStates": {
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Corridor.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -340,
+                "y": 4056
+            }
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Entrance.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1012,
+                "y": -408
+            }
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Garden.json": {
+            "expandedObjectLayers": [
+                9,
+                6,
+                7
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1762,
+                "y": 1052
+            }
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/LeftMainRoom.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1012,
+                "y": 664
+            }
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/MainEntrance.json": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 907.5757575757577,
+                "y": 666.6666666666667
+            }
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/RightMainRoom.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1014,
+                "y": 668
+            }
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BackgroundProps.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BigProps.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.0625
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Debug.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Enemies.json": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.25
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Entities.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Npcs.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Props.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.25
+        },
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Riddles.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/CandleTutorial.json": {
+            "expandedObjectLayers": [
+                9,
+                3
+            ],
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 281,
+                "y": 910
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/DiningRoom.json": {
+            "expandedObjectLayers": [
+                7,
+                8,
+                3
+            ],
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 474,
+                "y": 2460
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Entrance.json": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1028,
+                "y": 672
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Garage.json": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1880.5,
+                "y": 5536
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/GroundFloorUpstair.json": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1012,
+                "y": 712
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Kitchen.json": {
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3086.75,
+                "y": 489.5
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/LeftMainRoom.json": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1022.7272727272727,
+                "y": 669.6969696969697
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/MainEntrance.json": {
+            "expandedObjectLayers": [
+                7,
+                8,
+                3
+            ],
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 267,
+                "y": -1646
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/PrincessRoom.json": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 962,
+                "y": 528
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/RightMainRoom.json": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": -483.33333333333326,
+                "y": 1190.909090909091
+            }
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BackgroundProps.json": {
+            "scaleInDock": 1
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BigProps.json": {
+            "scaleInDock": 1
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Debug.json": {
+            "scaleInDock": 1
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Enemies.json": {
+            "scaleInDock": 1
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Entities.json": {
+            "scaleInDock": 1
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Npcs.json": {
+            "scaleInDock": 1
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Props.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125
+        },
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Riddles.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Maps/Bigboo.json": {
+            "scale": 0.4768609206660137,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1022.3106546854943,
+                "y": 819.945571245186
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BackgroundProps.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Debug.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Enemies.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Entities.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Npcs.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Props.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Riddles.json": {
+            "scaleInDock": 1
+        }
+    },
+    "loadedWorlds": [
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/Tiled/World/Floor1.world",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/Tiled/World/Floor2.world",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/Tiled/World/GroundFloor.world",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/Tiled/World/Floor1.world",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/Tiled/World/Floor2.world"
+    ],
+    "openFiles": [
+    ],
+    "project": "Project.tiled-project",
+    "recentFiles": [
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Corridor.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Npcs.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Riddles.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Entities.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Enemies.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BackgroundProps.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BigProps.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Debug.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Props.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/RightMainRoom.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/LeftMainRoom.json",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Garden.json"
+    ]
+}

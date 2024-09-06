@@ -1,0 +1,46 @@
+{
+  "data": {
+    "name": "SELLER_TALK",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "SELLER_TALK_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_TALK_7",
+      "duration": 0.1
+    }
+  ]
+}

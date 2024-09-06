@@ -1,0 +1,42 @@
+{
+  "data": {
+    "name": "FIREBALL_EXPLOSION",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "FIREBALL_EXPLOSION_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_EXPLOSION_7",
+      "duration": 0.1
+    }
+  ]
+}

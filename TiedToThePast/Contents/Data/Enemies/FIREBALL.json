@@ -1,0 +1,129 @@
+{
+  "patrolType": 1,
+  "patrolRadius": 75.0,
+  "hp": 100,
+  "speed": 250.0,
+  "attack": 45.0,
+
+  "timerWhileAttackingMax": 3.0,
+  "timerBeforeAttackMax": 2.0,
+
+  "totalDodgeTime": 1.0,
+  "dodgePercentTime": 5,
+  "counterPercentTime": 2,
+  "scope": 450.0,
+  "speedMultiplier": 2.0,
+
+  "collideBox": {
+    "width": 78,
+    "height": 78
+  },
+
+  "animations": [
+    {
+      "state": 0,
+      "path": "Contents/Data/Animations/Entities/Enemies/Fireball/idle_front.json"
+    },
+    {
+      "state": 1,
+      "path": "Contents/Data/Animations/Entities/Enemies/Fireball/move_down.json"
+    },
+    {
+      "state": 2,
+      "path": "Contents/Data/Animations/Entities/Enemies/Fireball/attack_front.json"
+    },
+    {
+      "state": 3,
+      "path": "Contents/Data/Animations/Entities/Enemies/Fireball/damage_front.json"
+    },
+    {
+      "state": 4,
+      "path": "Contents/Data/Animations/Entities/Enemies/Fireball/explosion_cataclysmique_vraiment_big_c_une_dinguerie.json"
+    }
+  ],
+
+  "effects": [
+    {
+      "id": 0,
+      "probability": 1
+    }
+  ],
+
+  "resistances": [
+    {
+      "id": 0, //fire attack
+      "coef": 0
+    },
+    {
+      "id": 1, //physic attack
+      "coef": 1.25
+    },
+    {
+      "id": 2, //magic attack
+      "coef": 1.5
+    }
+  ],
+
+  "immunities": [
+    {
+      "id": 0, //BURNING
+      "isImmune": true
+    },
+    {
+      "id": 1, //BLEEDING
+      "isImmune": false
+    },
+    {
+      "id": 2, //POISON
+      "isImmune": false
+    },
+    {
+      "id": 3, // ATK_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 4, //ATK_BREAK
+      "isImmune": false
+    },
+    {
+      "id": 5, //DEF_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 6, //DEF_BREAK
+      "isImmune": false
+    },
+    {
+      "id": 7, //IMMUNITY
+      "isImmune": false
+    },
+    {
+      "id": 8, //ANTI_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 9, //STUN
+      "isImmune": false
+    }
+  ],
+  "loot": [
+    {
+      "id": "POWER", // Strength potion,
+      "type": "CONSUMABLE",
+      "nbMax": 3,
+      "probabilities": 0.1
+    },
+    {
+      "id": "BOMB",
+      "type": "CONSUMABLE",
+      "nbMax": 3,
+      "probabilities": 0.05
+    }
+  ],
+
+  "CandiesLootMin": 15,
+  "CandiesLootMax": 25,
+  "attackType": 0, //fire attack
+
+  "fightMinigame": 0
+}

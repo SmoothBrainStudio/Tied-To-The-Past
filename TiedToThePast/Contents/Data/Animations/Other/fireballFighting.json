@@ -1,0 +1,66 @@
+{
+  "data": {
+    "name": "FIREBALL_FIGHTING",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "FIREBALL_FIGHTING_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_3",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_4",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_5",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_6",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_7",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_8",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_9",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_10",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_11",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_12",
+      "duration": 0.2
+    },
+    {
+      "texture": "FIREBALL_FIGHTING_13",
+      "duration": 0.2
+    }
+  ]
+}

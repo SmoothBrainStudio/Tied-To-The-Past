@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "CANDLE_DAMAGE_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_DAMAGEFRONT_0",
+      "duration": 1.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "LILBOO_IDLE_FRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "LILBOO_IDLEFRONT_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "LILBOO_IDLEFRONT_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "LILBOO_IDLEFRONT_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "LILBOO_IDLEFRONT_3",
+      "duration": 0.2
+    }
+  ]
+}

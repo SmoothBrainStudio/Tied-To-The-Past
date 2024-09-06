@@ -1,0 +1,3 @@
+IS_DIALOG
+Contents/Data/Texts/Door_easter_0.json
+Contents/Data/Texts/Door_easter_1.json

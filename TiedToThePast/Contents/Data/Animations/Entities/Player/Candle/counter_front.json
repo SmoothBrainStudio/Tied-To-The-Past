@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "CANDLE_COUNTER_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_COUNTER_FRONT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_7",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_8",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_COUNTER_FRONT_9",
+      "duration": 0.1
+    }
+  ]
+}

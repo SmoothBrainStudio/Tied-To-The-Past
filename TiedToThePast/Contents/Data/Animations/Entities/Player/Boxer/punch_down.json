@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "BOXER_PUNCH_DOWN",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BOXER_PUNCH_DOWN_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "BOXER_PUNCH_DOWN_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "BOXER_PUNCH_DOWN_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "BOXER_PUNCH_DOWN_3",
+      "duration": 0.1
+    }
+  ]
+}

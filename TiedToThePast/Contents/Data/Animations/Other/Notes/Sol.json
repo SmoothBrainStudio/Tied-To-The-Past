@@ -1,0 +1,30 @@
+{
+  "data": {
+    "name": "SOL",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "SOL_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SOL_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SOL_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SOL_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SOL_4",
+      "duration": 0.1
+    }
+  ]
+}

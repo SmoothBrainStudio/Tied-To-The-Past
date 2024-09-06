@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "CANDLE_SIMON",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_SIMON_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_SIMON_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_SIMON_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_SIMON_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_SIMON_4",
+      "duration": 0.1
+    }
+  ]
+}

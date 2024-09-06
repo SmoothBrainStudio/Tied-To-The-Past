@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "EMPTY_NOTE",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "EMPTY_NOTE",
+      "duration": 1.0
+    }
+  ]
+}

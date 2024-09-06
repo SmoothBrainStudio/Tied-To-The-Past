@@ -1,0 +1,39 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "It's my grandfather,\n"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#008000",
+        "value": "Nabooleon Boonapart"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "."
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

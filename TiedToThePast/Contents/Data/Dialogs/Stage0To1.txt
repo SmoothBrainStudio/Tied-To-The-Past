@@ -1,0 +1,4 @@
+IS_DIALOG
+Contents/Data/Texts/Stage0To1_0.json
+Contents/Data/Texts/Stage0To1_1.json
+Contents/Data/Texts/Stage0To1_2.json

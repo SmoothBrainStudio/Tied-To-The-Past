@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "VAMPIRE_DAMAGE_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "VAMPIRE_DAMAGEFRONT_0",
+      "duration": 1.0
+    }
+  ]
+}

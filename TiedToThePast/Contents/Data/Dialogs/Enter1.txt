@@ -1,0 +1,6 @@
+IS_DIALOG
+Contents/Data/Texts/Enter1_0.json
+Contents/Data/Texts/Enter1_1.json
+Contents/Data/Texts/Enter1_2.json
+Contents/Data/Texts/Enter1_3.json
+Contents/Data/Texts/Enter1_4.json

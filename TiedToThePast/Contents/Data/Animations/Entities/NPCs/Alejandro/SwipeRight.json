@@ -1,0 +1,46 @@
+{
+  "data": {
+    "name": "SELLER_SWIPE_RIGHT",
+    "speed": 1.6,
+    "loop": false,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "SELLER_SWIPE_RIGHT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_RIGHT_7",
+      "duration": 0.1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "You can also "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#FF00FF",
+        "value": "relax "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "by leaving\nyour ties on this "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#0000FF",
+        "value": "coat rack"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "."
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "outline": {
+        "thickness": 0,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

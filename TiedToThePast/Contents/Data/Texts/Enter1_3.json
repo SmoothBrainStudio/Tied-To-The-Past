@@ -1,0 +1,75 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "Now that you're wearing this new "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#FF8000",
+        "value": "tie"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": ",\nyou can "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#FF0000",
+        "value": "break the crates "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "\nby throwing a "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#0000FF",
+        "value": "punch"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": ".\n"
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "outline": {
+        "thickness": 0,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

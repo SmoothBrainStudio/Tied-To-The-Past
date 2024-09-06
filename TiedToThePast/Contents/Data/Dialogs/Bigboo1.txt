@@ -1,0 +1,4 @@
+IS_DIALOG
+Contents/Data/Texts/Bigboo1_0.json
+Contents/Data/Texts/Bigboo1_1.json
+Contents/Data/Texts/Bigboo1_2.json

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "BIGBOO_DAMAGEFRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BIGBOO_DAMAGEFRONT_0",
+      "duration": 1.0
+    }
+  ]
+}

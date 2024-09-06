@@ -1,0 +1,35 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "We really can't see anything here !"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#FF0000",
+        "value": "\nIt's out of the question to venture here !"
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "outline": {
+        "thickness": 0,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

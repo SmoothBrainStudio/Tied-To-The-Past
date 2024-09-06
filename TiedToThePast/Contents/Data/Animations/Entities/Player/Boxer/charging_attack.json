@@ -1,0 +1,30 @@
+{
+  "data": {
+    "name": "BOXER_CHARGING_ATTACK",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BOXER_CHARGING_ATTACK_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "BOXER_CHARGING_ATTACK_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "BOXER_CHARGING_ATTACK_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "BOXER_CHARGING_ATTACK_3",
+      "duration": 0.2
+    },
+    {
+      "texture": "BOXER_CHARGING_ATTACK_4",
+      "duration": 0.2
+    }
+  ]
+}

@@ -17,11 +17,6 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
 x86/
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
@@ -396,3 +391,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+Projet/x64/Release/Tied To The Past.exe
+Projet/x64/Release/Tied To The Past.pdb
+Projet/x64/Debug/Tied To The Past.exe
+Projet/x64/Debug/Tied To The Past.pdb
+Projet/Contents/Data/Saves/*

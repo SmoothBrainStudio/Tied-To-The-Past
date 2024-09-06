@@ -1,0 +1,180 @@
+[
+  {
+    "ID": "BOXER",
+    "Name": "Boxer",
+    "Price": 0,
+    "Upgrades": [
+      {
+        "Price": 40,
+        "Description": "Allows you to break walls, and makes you stronger !"
+      },
+      {
+        "Price": 230,
+        "Description": "Permits you to apply Defense Break with 75% chance \n on an enemy if you do an excellent, and makes you stronger !"
+      }
+    ],
+
+    "effects": [
+      {
+        "id": 6,
+        "probability": 0.75
+      }
+    ],
+    "Resistances": [ //if the number is bigger, you will take bigger damages
+      {
+        "id": 0, //FIRE
+        "coef": 1
+      },
+      {
+        "id": 1, //PHYSIC
+        "coef": 0.75
+      },
+      {
+        "id": 2, //magic attack
+        "coef": 1.0
+      }
+    ],
+
+    "AttackType": 1,
+
+    "Texture": "Contents/Assets/Sprites/Fighting/Ties/Boxer.png",
+    "Description": "To keep the eye of the tiger !"
+  },
+  {
+    "ID": "CANDLE",
+    "Name": "Candle",
+    "Price": 0,
+    "Upgrades": [
+      {
+        "Price": 200,
+        "Description": "Allows you to attack again if you do a perfect, and makes you stronger !"
+      },
+      {
+        "Price": 350,
+        "Description": "Makes you stronger !"
+      }
+    ],
+
+    "effects": [
+      {
+        "id": 0,
+        "probability": 0.5
+      }
+
+    ],
+
+    "Resistances": [
+      {
+        "id": 0, //FIRE
+        "coef": 1.25
+      },
+      {
+        "id": 1, //PHYSIC
+        "coef": 1.0
+      },
+      {
+        "id": 2, //magic attack
+        "coef": 1.0
+      }
+    ],
+
+    "AttackType": 0,
+
+    "Texture": "Contents/Assets/Sprites/Fighting/Ties/Candle.png",
+    "Description": "It doesn't have the lights switched on at every level ..."
+  },
+  {
+    "ID": "MUSIC",
+    "Name": "Music",
+    "Price": 0,
+    "Upgrades": [
+      {
+        "Price": 275,
+        "Description": "Allows you to gain immunity for 1 turn if you do a perfect !"
+      },
+      {
+        "Price": 400,
+        "Description": "Allows you to gain immunity for 2 turns if you do a perfect !"
+      }
+    ],
+
+    "effects": [
+      {
+        "id": 3,
+        "probability": 1
+      },
+      {
+        "id": 4,
+        "probability": 1
+      },
+      {
+        "id": 5,
+        "probability": 1
+      },
+      {
+        "id": 6,
+        "probability": 1
+      }
+
+    ],
+
+    "Resistances": [
+      {
+        "id": 0, //FIRE
+        "coef": 1.0
+      },
+      {
+        "id": 1, //PHYSIC
+        "coef": 1.0
+      },
+      {
+        "id": 2, //magic attack
+        "coef": 0.75
+      }
+    ],
+
+    "AttackType": 2,
+
+    "Texture": "Contents/Assets/Sprites/Fighting/Ties/MusicTie.png",
+    "Description": "Use music to fight against enemies!"
+  },
+  {
+    "ID": "PRINCESS",
+    "Name": "Princess",
+    "Price": 0,
+    "Upgrades": [
+      {
+        "Price": 20,
+        "Description": "Make you stronger !"
+      },
+      {
+        "Price": 30,
+        "Description": "Make you stronger !"
+      }
+    ],
+
+    "effects": [
+      {
+        "id": 0,
+        "probability": 1
+      }
+
+    ],
+
+    "Resistances": [
+      {
+        "id": 0, //FIRE
+        "coef": 1
+      },
+      {
+        "id": 1, //PHYSIC
+        "coef": 1
+      }
+    ],
+
+    "AttackType": 0,
+
+    "Texture": "Contents/Assets/Sprites/Fighting/Ties/PrincessTie.png",
+    "Description": "It doesn't have the lights switched on at every level ..."
+  }
+]

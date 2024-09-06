@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "BASIC_MOVE_DOWN",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BASIC_MOVEDOWN_0",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_1",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_2",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_3",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_4",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_5",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_6",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_7",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_8",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_9",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_10",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_11",
+      "duration": 0.077
+    },
+    {
+      "texture": "BASIC_MOVEDOWN_12",
+      "duration": 0.077
+    }
+  ]
+}

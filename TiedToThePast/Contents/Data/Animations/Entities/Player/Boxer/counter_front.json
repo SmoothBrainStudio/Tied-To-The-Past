@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "BOXER_COUNTER_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "BOXER_COUNTER_FRONT_0",
+      "duration": 0.11
+    },
+    {
+      "texture": "BOXER_COUNTER_FRONT_1",
+      "duration": 0.11
+    },
+    {
+      "texture": "BOXER_COUNTER_FRONT_2",
+      "duration": 0.11
+    },
+    {
+      "texture": "BOXER_COUNTER_FRONT_3",
+      "duration": 0.11
+    }
+  ]
+}

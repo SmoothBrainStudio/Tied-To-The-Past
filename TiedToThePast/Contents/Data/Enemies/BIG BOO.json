@@ -1,0 +1,151 @@
+{
+  "patrolType": 1,
+  "patrolRadius": 100.0,
+  "hp": 1095,
+  "speed": 150.0,
+  "attack": 64.0,
+
+  "timerWhileAttackingMax": 5.0,
+  "timerBeforeAttackMax": 2.0,
+
+  "totalDodgeTime": 2.0,
+  "dodgePercentTime": 20,
+  "counterPercentTime": 10,
+  "scope": 350.0,
+  "speedMultiplier": 2.2,
+
+  "collideBox": {
+    "width": 180,
+    "height": 291
+  },
+
+  "animations": [
+    {
+      "state": 0,
+      "path": "Contents/Data/Animations/Entities/Enemies/BigBoo/idle_front.json"
+    },
+    {
+      "state": 1,
+      "path": "Contents/Data/Animations/Entities/Enemies/BigBoo/move_down.json"
+    },
+    {
+      "state": 2,
+      "path": "Contents/Data/Animations/Entities/Enemies/BigBoo/attack_front.json"
+    },
+    {
+      "state": 3,
+      "path": "Contents/Data/Animations/Entities/Enemies/BigBoo/damage_front.json"
+    },
+    {
+      "state": 4,
+      "path": "Contents/Data/Animations/Entities/Enemies/BigBoo/special_front.json"
+    }
+  ],
+
+  "effects": [
+    {
+      "id": 6,
+      "probability": 0.75 
+    },
+    {
+      "id": 8,
+      "probability": 0.25
+    }
+  ],
+
+  "resistances": [
+    {
+      "id": 0, //fire attack
+      "coef": 1.0
+    },
+    {
+      "id": 1, //physic attack
+      "coef": 0.75
+    },
+    {
+      "id": 2, //magic attack
+      "coef": 1.25
+    }
+  ],
+
+  "immunities": [
+    {
+      "id": 0, //BURNING
+      "isImmune": false
+    },
+    {
+      "id": 1, //BLEEDING
+      "isImmune": false
+    },
+    {
+      "id": 2, //POISON
+      "isImmune": false
+    },
+    {
+      "id": 3, // ATK_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 4, //ATK_BREAK
+      "isImmune": false
+    },
+    {
+      "id": 5, //DEF_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 6, //DEF_BREAK
+      "isImmune": false
+    },
+    {
+      "id": 7, //IMMUNITY
+      "isImmune": false
+    },
+    {
+      "id": 8, //ANTI_BUFF
+      "isImmune": false
+    },
+    {
+      "id": 9, //STUN
+      "isImmune": true
+    }
+  ],
+  "loot": [
+    {
+      "id": "POTION",
+      "type": "CONSUMABLE",
+      "nbMax": 1,
+      "probabilities": 0.1
+    },
+    {
+      "id": "ANTIDOTE", // Antidote
+      "type": "CONSUMABLE",
+      "nbMax": 2,
+      "probabilities": 0.1
+    },
+    {
+      "id": "POWER", // Strength potion,
+      "type": "CONSUMABLE",
+      "nbMax": 1,
+      "probabilities": 0.1
+    },
+    {
+      "id": "BOMB",
+      "type": "CONSUMABLE",
+      "nbMax": 1,
+      "probabilities": 0.05
+    },
+    {
+      "id": "ANTIDOTE", // Antidote
+      "type": "CONSUMABLE",
+      "nbMax": 3,
+      "probabilities": 0.1
+    }
+  ],
+
+  "CandiesLootMin": 1500,
+  "CandiesLootMax": 2500,
+  "attackType": 1, //physic attack
+
+  "fightMinigame": 0
+}

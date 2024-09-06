@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "CHIMNEY",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "CHIMNEY_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "CHIMNEY_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "CHIMNEY_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "CHIMNEY_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "CHIMNEY_4",
+      "duration": 0.1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "FIREBALL_DAMAGE_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "FIREBALL_DAMAGEFRONT_0",
+      "duration": 1.0
+    }
+  ]
+}

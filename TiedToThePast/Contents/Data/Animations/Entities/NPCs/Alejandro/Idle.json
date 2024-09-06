@@ -1,0 +1,54 @@
+{
+  "data": {
+    "name": "SELLER_IDLE",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "SELLER_IDLE_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_7",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_8",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_IDLE_9",
+      "duration": 0.1
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+IS_DIALOG
+Contents/Data/Texts/Frankenchief_discover_0.json
+Contents/Data/Texts/Frankenchief_discover_1.json

@@ -1,0 +1,58 @@
+{
+  "data": {
+    "name": "ZOMBIE_MOVE_DOWN",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "ZOMBIE_MOVEDOWN_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_7",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_8",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_9",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_10",
+      "duration": 0.1
+    },
+    {
+      "texture": "ZOMBIE_MOVEDOWN_11",
+      "duration": 0.1
+    }
+  ]
+}

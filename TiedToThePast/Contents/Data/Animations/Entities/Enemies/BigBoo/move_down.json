@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "BIGBOO_MOVEDOWN",
+    "speed": 0.7,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BIGBOO_IDLEFRONT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "BIGBOO_IDLEFRONT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "BIGBOO_IDLEFRONT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "BIGBOO_IDLEFRONT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "BIGBOO_IDLEFRONT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "BIGBOO_IDLEFRONT_5",
+      "duration": 0.1
+    }
+  ]
+}

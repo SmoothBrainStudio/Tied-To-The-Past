@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "CANDLEBOSS_IDLEFRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "CANDLEBOSS_IDLEFRONT_0",
+      "duration": 0.25
+    },
+    {
+      "texture": "CANDLEBOSS_IDLEFRONT_1",
+      "duration": 0.25
+    },
+    {
+      "texture": "CANDLEBOSS_IDLEFRONT_2",
+      "duration": 0.25
+    },
+    {
+      "texture": "CANDLEBOSS_IDLEFRONT_3",
+      "duration": 0.25
+    }
+  ]
+}

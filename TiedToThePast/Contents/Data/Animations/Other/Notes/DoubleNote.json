@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "DOUBLE_NOTE",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "DOUBLE_NOTE",
+      "duration": 1.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "maps": [
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Entrance.json",
+            "height": 1344,
+            "width": 2016,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Hallway.json",
+            "height": 1344,
+            "width": 2016,
+            "x": 1344,
+            "y": -1400
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Corridor.json",
+            "height": 2968,
+            "width": 2016,
+            "x": 1344,
+            "y": -4480
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Bigboo.json",
+            "height": 1624,
+            "width": 2016,
+            "x": 1344,
+            "y": -6216
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/VampireRoom.json",
+            "height": 1064,
+            "width": 1904,
+            "x": 3472,
+            "y": -1120
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/PrincessRoom.json",
+            "height": 1064,
+            "width": 1904,
+            "x": 2128,
+            "y": 280
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

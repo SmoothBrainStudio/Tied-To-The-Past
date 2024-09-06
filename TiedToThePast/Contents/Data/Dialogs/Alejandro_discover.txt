@@ -1,0 +1,4 @@
+IS_DIALOG
+Contents/Data/Texts/Alejandro_discover_0.json
+Contents/Data/Texts/Alejandro_discover_1.json
+Contents/Data/Texts/Alejandro_discover_2.json

@@ -1,0 +1,58 @@
+{
+  "data": {
+    "loop": false,
+    "name": "KNIGHT_ATTACK_FRONT",
+    "speed": 1.0,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "KNIGHT_ATTACKFRONT_0",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_1",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_2",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_3",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_4",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_5",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_6",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_7",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_8",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_9",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_10",
+      "duration": 0.05
+    },
+    {
+      "texture": "KNIGHT_ATTACKFRONT_11",
+      "duration": 0.05
+    }
+  ]
+}

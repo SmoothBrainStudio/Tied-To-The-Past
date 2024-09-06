@@ -1,0 +1,54 @@
+{
+  "data": {
+    "name": "SELLER_ON_MAP",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "SELLER_ON_MAP_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_7",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_8",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_ON_MAP_9",
+      "duration": 0.1
+    }
+  ]
+}

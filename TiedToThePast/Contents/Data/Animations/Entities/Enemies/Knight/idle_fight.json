@@ -1,0 +1,54 @@
+{
+  "data": {
+    "name": "KNIGHT_IDLE_FIGHT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "KNIGHT_IDLEFIGHT_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_3",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_4",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_5",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_6",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_7",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_8",
+      "duration": 0.2
+    },
+    {
+      "texture": "KNIGHT_IDLEFIGHT_9",
+      "duration": 0.2
+    }
+  ]
+}

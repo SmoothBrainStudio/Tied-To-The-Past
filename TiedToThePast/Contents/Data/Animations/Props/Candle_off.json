@@ -1,0 +1,31 @@
+{
+  "data": {
+    "name": "CANDLE_OFF",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_OFF",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_OFF",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_OFF",
+      "duration": 0.1
+    },
+    {
+      "texture": "CANDLE_OFF",
+      "duration": 0.1
+    }
+  ]
+}
+  

@@ -1,0 +1,3 @@
+IS_DIALOG
+Contents/Data/Texts/LilBooNpc7.json
+Contents/Data/Texts/LilBooNpc8.json

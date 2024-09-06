@@ -1,0 +1,27 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#FFFFFF",
+        "value": ""
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 30.0,
+      "animation": {
+        "timeByCharacter": 26.0
+      },
+      "outline": {
+        "thickness": 2,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SHOP_SOUND"
+    }
+  }
+}

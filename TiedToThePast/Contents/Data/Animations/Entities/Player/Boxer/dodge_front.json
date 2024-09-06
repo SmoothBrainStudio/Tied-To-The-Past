@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "BOXER_DODGE",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "BOXER_DODGE_0",
+      "duration": 1.0
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+IS_DIALOG
+Contents/Data/Texts/Kitchen_cake_0.json
+Contents/Data/Texts/Kitchen_cake_1.json
+Contents/Data/Texts/Kitchen_cake_2.json

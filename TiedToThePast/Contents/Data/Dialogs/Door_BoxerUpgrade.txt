@@ -1,0 +1,2 @@
+IS_DIALOG
+Contents/Data/Texts/Door_boxer_upgrade.json

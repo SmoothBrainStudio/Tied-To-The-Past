@@ -1,0 +1,4 @@
+IS_DIALOG
+Contents/Data/Texts/NPC1Text1.json
+Contents/Data/Texts/NPC1Text2.json
+Contents/Data/Texts/NPC1Text3.json

@@ -1,0 +1,3 @@
+DIALOG_BOX Contents/Assets/Sprites/Other/Dialog/DialogBox.png
+NORMAL_DIALOG_BOX Contents/Assets/Sprites/Other/Dialog/NormalBranch.png
+BUBLE_DIALOG_BOX Contents/Assets/Sprites/Other/Dialog/ThinkBranch.png

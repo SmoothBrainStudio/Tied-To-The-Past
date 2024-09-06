@@ -1,0 +1,83 @@
+{
+    "maps": [
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/MainEntrance.json",
+            "height": 1344,
+            "width": 2016,
+            "x": 24,
+            "y": -8
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/LeftMainRoom.json",
+            "height": 1344,
+            "width": 2016,
+            "x": -2100,
+            "y": -12
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/RightMainRoom.json",
+            "height": 1344,
+            "width": 2016,
+            "x": 2208,
+            "y": -8
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/GroundFloorUpstair.json",
+            "height": 1456,
+            "width": 2016,
+            "x": -2096,
+            "y": -1544
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Pantry.json",
+            "height": 1344,
+            "width": 1904,
+            "x": 3476,
+            "y": -1469
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/DiningRoom.json",
+            "height": 2968,
+            "width": 2016,
+            "x": 24,
+            "y": -3088
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Kitchen.json",
+            "height": 1456,
+            "width": 2016,
+            "x": -2093,
+            "y": -3140
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Garden.json",
+            "height": 2128,
+            "width": 3808,
+            "x": -816,
+            "y": 1504
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/WineCellar.json",
+            "height": 1624,
+            "width": 2016,
+            "x": 4372,
+            "y": -3205
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/CandleTutorial.json",
+            "height": 1344,
+            "width": 2016,
+            "x": 2132,
+            "y": -3093
+        },
+        {
+            "fileName": "../../x64/Debug/Contents/Data/Tiled/Maps/Garage.json",
+            "height": 1064,
+            "width": 1904,
+            "x": -764,
+            "y": -4333
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

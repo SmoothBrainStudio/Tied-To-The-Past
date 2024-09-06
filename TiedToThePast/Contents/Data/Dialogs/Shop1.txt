@@ -1,0 +1,3 @@
+IS_DIALOG
+Contents/Data/Texts/Shop1_0.json
+Contents/Data/Texts/Shop1_1.json

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "ATTACK_CANDLE_7",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "ATTACK_CANDLE_7_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "ATTACK_CANDLE_7_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "ATTACK_CANDLE_7_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "ATTACK_CANDLE_7_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "ATTACK_CANDLE_7_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "ATTACK_CANDLE_7_5",
+      "duration": 0.1
+    }
+  ]
+}

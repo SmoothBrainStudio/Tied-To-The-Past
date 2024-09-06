@@ -1,0 +1,79 @@
+{
+  "Duration": 0.75,
+  "RateByTime": 0,
+  "MaxParticle": 1000,
+
+  "Shape": {
+    "type": 0,
+    "spawnRadius": 0.0,
+    "finalRadius": 1.0
+  },
+
+  "Burst": [
+    {
+      "time": 0.0,
+      "count": 120.0,
+      "cycle": 1,
+      "interval": 0.0,
+      "probability": 1.0
+    }
+  ],
+
+  "Mass": 10.0,
+  "LinearDamping": 0.3,
+  "GravityScale": 0.0,
+
+  "Loop": false,
+  "StartAwake": true,
+  "IsSmooth": true,
+  "Texture": "Contents/Assets/Sprites/Particles/particle1.png",
+
+  "StartColor": {
+    "type": "random",
+    "value": [ "#ffffffbb", "#aaaaaabb" ]
+  },
+  "StartRotation": {
+    "type": "random",
+    "value": [ -45.0, 45.0 ]
+  },
+  "StartScale": {
+    "type": "random",
+    "value": [ 1.0, 2.0 ]
+  },
+  "StartSpeed": {
+    "type": "random",
+    "value": [ 0.0, 100.0 ]
+  },
+
+  "ColorOverTime": {
+    "enable": true,
+    "max": "#d43017",
+    "min": "#d47f17"
+  },
+  "RotationOverTime": {
+    "enable": true,
+    "max": 50.0,
+    "min": -15.0
+  },
+  "ScaleOverTime": {
+    "enable": true,
+    "max": 1.0,
+    "min": 0.0
+  },
+
+  "ColorOverSpeed": {
+    "enable": false,
+    "max": "#ed0c0c",
+    "min": "#ed6e0c"
+  },
+  "RotationOverSpeed": {
+    "enable": true,
+    "max": 50.0,
+    "min": -15.0
+  },
+  "ScaleOverSpeed": {
+    "enable": false,
+    "max": 0.0,
+    "min": 1.0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "name": "VAMPIRE_SPECIAL",
+    "speed": 1.6,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "VAMPIRE_SPECIAL_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_3",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_4",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_5",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_6",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_7",
+      "duration": 0.2
+    },
+    {
+      "texture": "VAMPIRE_SPECIAL_8",
+      "duration": 0.2
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "CANDY",
+    "Name": "Candy",
+    "Type": "OTHER",
+    "Price": 1,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Candy.png",
+    "Description": "Mmmmmmh candy!"
+  },
+  {
+    "ID": "KEY_MANSION",
+    "Name": "Mansion key",
+    "Type": "IMPORTANT",
+    "Price": 0,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Keys/MansionKey.png",
+    "Description": "Who put a key in a box ?"
+  },
+  {
+    "ID": "KEY_CHIEF",
+    "Name": "Shop room key",
+    "Type": "IMPORTANT",
+    "Price": 0,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Keys/ChiefKey.png",
+    "Description": "Maybe I can use it somewhere ?"
+  },
+  {
+    "ID": "KEY_CANDLE",
+    "Name": "Living room key",
+    "Type": "IMPORTANT",
+    "Price": 0,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Keys/CandleKey.png",
+    "Description": "This key is really hot !"
+  },
+  {
+    "ID": "KEY_VAMPIRE",
+    "Name": "Bigboo room key",
+    "Type": "IMPORTANT",
+    "Price": 0,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Keys/VampireKey.png",
+    "Description": "Oh wait ? This key can fly ?"
+  },
+  {
+    "ID": "POTION",
+    "Name": "Heal Potion",
+    "Type": "CONSUMABLE",
+    "Effect": "HEAL",
+    "Price": 30,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Little/Potion.png",
+    "BigTexture": "Contents/Assets/Sprites/UI/Items/Big/Potion.png",
+    "Description": "Drink it to heal."
+  },
+  {
+    "ID": "ANTIDOTE",
+    "Name": "Antidote",
+    "Type": "CONSUMABLE",
+    "Effect": "CURE",
+    "Price": 25,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Little/Antidote.png",
+    "BigTexture": "Contents/Assets/Sprites/UI/Items/Big/Antidote.png",
+    "Description": "It cures from all debuffs & DOTs."
+  },
+  {
+    "ID": "POWER",
+    "Name": "Power",
+    "Type": "CONSUMABLE",
+    "Effect": "ATK_BUFF",
+    "Price": 40,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Little/Power.png",
+    "BigTexture": "Contents/Assets/Sprites/UI/Items/Big/Power.png",
+    "Description": "It makes you temporarily stronger."
+  },
+  {
+    "ID": "BOMB",
+    "Name": "Bomb",
+    "Type": "CONSUMABLE",
+    "Effect": "BOMB",
+    "Price": 35,
+    "Texture": "Contents/Assets/Sprites/UI/Items/Little/Bomb.png",
+    "BigTexture": "Contents/Assets/Sprites/UI/Items/Big/Bomb.png",
+    "Description": "BOOM !!!"
+  }
+]

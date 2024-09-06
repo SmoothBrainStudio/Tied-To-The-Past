@@ -1,0 +1,152 @@
+[
+	{
+		"ControllerButton" : "B_CIRCLE",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "B_CIRCLE",
+		"DefaultKey" : "R",
+		"Key" : "R",
+		"KeyboardOnly" : false,
+		"Name" : "CANCEL",
+		"Title" : "Cancel"
+	},
+	{
+		"ControllerButton" : "",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "",
+		"DefaultKey" : "Backspace",
+		"Key" : "Backspace",
+		"KeyboardOnly" : true,
+		"Name" : "CANCEL_2",
+		"Title" : "Cancel 2"
+	},
+	{
+		"ControllerButton" : "RB_R1",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "RB_R1",
+		"DefaultKey" : "LShift",
+		"Key" : "LShift",
+		"KeyboardOnly" : false,
+		"Name" : "CIRCULAR_MENU",
+		"Title" : "Circular Menu"
+	},
+	{
+		"ControllerButton" : "",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "",
+		"DefaultKey" : "S",
+		"Key" : "S",
+		"KeyboardOnly" : true,
+		"Name" : "DOWN",
+		"Title" : "Down"
+	},
+	{
+		"ControllerButton" : "LB_L1",
+		"ControllerOnly" : true,
+		"DefaultControllerButton" : "LB_L1",
+		"DefaultKey" : "Q",
+		"Key" : "Q",
+		"KeyboardOnly" : false,
+		"Name" : "ESCAPE_1",
+		"Title" : "Escape 1"
+	},
+	{
+		"ControllerButton" : "RB_R1",
+		"ControllerOnly" : true,
+		"DefaultControllerButton" : "RB_R1",
+		"DefaultKey" : "D",
+		"Key" : "D",
+		"KeyboardOnly" : false,
+		"Name" : "ESCAPE_2",
+		"Title" : "Escape 2"
+	},
+	{
+		"ControllerButton" : "X_SQUARE",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "X_SQUARE",
+		"DefaultKey" : "F",
+		"Key" : "F",
+		"KeyboardOnly" : false,
+		"Name" : "HIT",
+		"Title" : "Hit"
+	},
+	{
+		"ControllerButton" : "A_CROSS",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "A_CROSS",
+		"DefaultKey" : "E",
+		"Key" : "E",
+		"KeyboardOnly" : false,
+		"Name" : "INTERACT",
+		"Title" : "Interact"
+	},
+	{
+		"ControllerButton" : "",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "",
+		"DefaultKey" : "Return",
+		"Key" : "Return",
+		"KeyboardOnly" : true,
+		"Name" : "INTERACT_2",
+		"Title" : "Interact 2"
+	},
+	{
+		"ControllerButton" : "Y_TRIANGLE",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "Y_TRIANGLE",
+		"DefaultKey" : "Tab",
+		"Key" : "Tab",
+		"KeyboardOnly" : false,
+		"Name" : "INVENTORY",
+		"Title" : "Inventory"
+	},
+	{
+		"ControllerButton" : "",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "",
+		"DefaultKey" : "Q",
+		"Key" : "Q",
+		"KeyboardOnly" : true,
+		"Name" : "LEFT",
+		"Title" : "Left"
+	},
+	{
+		"ControllerButton" : "START",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "START",
+		"DefaultKey" : "Escape",
+		"Key" : "Escape",
+		"KeyboardOnly" : false,
+		"Name" : "PAUSE",
+		"Title" : "Pause"
+	},
+	{
+		"ControllerButton" : "",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "",
+		"DefaultKey" : "D",
+		"Key" : "D",
+		"KeyboardOnly" : true,
+		"Name" : "RIGHT",
+		"Title" : "Right"
+	},
+	{
+		"ControllerButton" : "",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "",
+		"DefaultKey" : "Z",
+		"Key" : "Z",
+		"KeyboardOnly" : true,
+		"Name" : "UP",
+		"Title" : "Up"
+	},
+	{
+		"ControllerButton" : "SELECT",
+		"ControllerOnly" : false,
+		"DefaultControllerButton" : "SELECT",
+		"DefaultKey" : "I",
+		"Key" : "I",
+		"KeyboardOnly" : false,
+		"Name" : "FIGHT_INFO",
+		"Title" : "FightInfo"
+	}
+]

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "OWL",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "OWL_0",
+      "duration": 0.05
+    },
+    {
+      "texture": "OWL_1",
+      "duration": 0.05
+    },
+    {
+      "texture": "OWL_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "OWL_3",
+      "duration": 0.05
+    },
+    {
+      "texture": "OWL_4",
+      "duration": 0.05
+    }
+  ]
+}

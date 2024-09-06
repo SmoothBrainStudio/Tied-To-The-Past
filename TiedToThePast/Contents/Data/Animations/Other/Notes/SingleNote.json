@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "SINGLE_NOTE",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "SINGLE_NOTE",
+      "duration": 1.0
+    }
+  ]
+}

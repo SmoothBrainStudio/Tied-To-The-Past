@@ -1,0 +1,30 @@
+{
+  "data": {
+    "name": "SELLER_BUY",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "SELLER_EYES_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_EYES_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_EYES_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_EYES_3",
+      "duration": 0.1
+    }
+  ]
+}

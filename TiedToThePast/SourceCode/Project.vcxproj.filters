@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\Common">
+      <UniqueIdentifier>{d4ccfcad-ae81-4ec7-a1a3-2fe01d50a58c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common">
+      <UniqueIdentifier>{9982ac34-3c2d-4cf2-9a60-c4006d44e79c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies">
+      <UniqueIdentifier>{dd3ba20d-e15f-4bd8-a3e1-95adf93de071}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies">
+      <UniqueIdentifier>{c81d3989-2414-4d4c-a322-8d71e35bda2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Maths">
+      <UniqueIdentifier>{48e57fd7-a480-41f4-b423-f66abf8226e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Maths">
+      <UniqueIdentifier>{788d55f2-f6ca-47ad-8f37-84cf237575f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Base Classes">
+      <UniqueIdentifier>{a095726e-213d-451c-b0fe-c0126cfceea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Base Classes">
+      <UniqueIdentifier>{7e2e8693-a16d-4f34-ac41-8103dede4f84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Managers">
+      <UniqueIdentifier>{2a8c0a34-97c7-4f5e-8a65-d00693e010e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Managers">
+      <UniqueIdentifier>{b9fe3778-817b-4fd4-923c-07c95fec9fbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Managers\Input Managers">
+      <UniqueIdentifier>{3fe39ad1-4c09-4491-b84e-8923e0dd2081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes">
+      <UniqueIdentifier>{54bd3344-3227-45c5-b3a5-c027622a6eef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Menu Classes">
+      <UniqueIdentifier>{0f50a57c-6dfa-4703-b1a0-c3a45e9c5b88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\States">
+      <UniqueIdentifier>{ea661acd-fc7a-4d68-a42e-d240026ab5f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\States">
+      <UniqueIdentifier>{9ec678bb-7f32-432c-9d20-3c19486aa12c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Creators">
+      <UniqueIdentifier>{a0bab4fc-20c1-4428-93fc-a57754cf784b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Creators">
+      <UniqueIdentifier>{0801f994-e6c9-475f-ac22-2ca6a3e34da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Managers\Input Managers">
+      <UniqueIdentifier>{d475f620-48c6-4d46-942b-ba0a0aa9fd04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes">
+      <UniqueIdentifier>{38cf57a8-e2a7-4835-b754-045ccbc7fadf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Entity">
+      <UniqueIdentifier>{36b55e40-8e79-483a-9aba-23d6ab45e1f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Entity\Enemies">
+      <UniqueIdentifier>{f80ed6f7-3694-44d0-88cb-f1b40a722fb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Entity\NPCs">
+      <UniqueIdentifier>{f1c1cd57-dc69-41c2-b2f9-cc0318d2e381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes">
+      <UniqueIdentifier>{cd729df6-4985-4b61-99ac-63de6b01c760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Entity">
+      <UniqueIdentifier>{99c1ec6a-41ed-4616-9f22-0e0c1a0f2e43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Entity\Enemies">
+      <UniqueIdentifier>{afb87b4d-b123-45ff-9154-1dc15965efb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Entity\NPCs">
+      <UniqueIdentifier>{e2669b5f-a042-489f-9f46-0488d8858bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Common\CommonLibrairies\Json">
+      <UniqueIdentifier>{83b31dc6-205c-40e9-a72d-7f6ffcae3689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Common\CommonLibrairies\Json">
+      <UniqueIdentifier>{2080b8d6-d290-4644-b41d-01002076e7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Fights">
+      <UniqueIdentifier>{64fd0fec-77ed-485a-9b72-c42b3b7dc896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Fights">
+      <UniqueIdentifier>{7dc8bda4-1980-4778-a71d-e3ffc3021bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Riddles">
+      <UniqueIdentifier>{041c9fed-37b9-4d79-9ac1-da55de19d9bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Riddles">
+      <UniqueIdentifier>{9831de92-a855-41d4-916c-ef419841ffe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Map">
+      <UniqueIdentifier>{43f3a774-f374-4a8b-94e9-033503579607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Map">
+      <UniqueIdentifier>{ed5ab3f7-17bf-47c9-a2de-6270cad31a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Status">
+      <UniqueIdentifier>{8ec5027b-664f-49a3-a037-8940e19fc9fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Status">
+      <UniqueIdentifier>{001f6668-8dd8-4f34-a1a8-e63c4a3c11d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Items">
+      <UniqueIdentifier>{cfc46146-f128-4a54-ad01-a0141e8b4dcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Fights\Boss">
+      <UniqueIdentifier>{eb6d1e14-0f70-4811-85a1-0c78aa3c4660}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Fights\Enemies">
+      <UniqueIdentifier>{584666bc-c53f-4f9d-a856-9861c47e5811}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Fights\Player">
+      <UniqueIdentifier>{cbf7ac2a-686f-4e2c-b504-84f4f96fdc8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Fights\Boss">
+      <UniqueIdentifier>{e6bbaf63-b239-440f-9518-39d718948c5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Fights\Player">
+      <UniqueIdentifier>{7d938e49-c125-409a-b5a9-f5100aa2deff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Fights\Enemies">
+      <UniqueIdentifier>{cfe7beb4-29af-4031-af59-75b96daed921}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\PhaseStates">
+      <UniqueIdentifier>{749b15f3-e1ad-4e1f-9aae-885fd799a950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\PhaseStates">
+      <UniqueIdentifier>{d14adc7b-4104-4c0d-a8a2-3b70f41be53c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Items">
+      <UniqueIdentifier>{b502035a-0b0d-43d1-a11f-dc25fa9520eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\HUD">
+      <UniqueIdentifier>{dd396b53-9cc6-4fcd-91eb-3b10e59724b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\HUD">
+      <UniqueIdentifier>{d6d688e7-d035-4a3e-b982-cdbb99035741}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\InGame Classes\Dialog">
+      <UniqueIdentifier>{bbd5e84d-a8ca-45ee-b893-ae8d881c2bec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InGame Classes\Dialog">
+      <UniqueIdentifier>{ee3ba88c-637e-4a41-87e3-b50f69088d5a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common.cpp">
+      <Filter>Fichiers sources\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Maths.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Collisions.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Easings.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="FontsManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers\Input Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers\Input Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Base Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TexturesManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Select.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyInput.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PreMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScreen.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Introduction.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadersManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Shapes.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Base Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClock.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Definitions.cpp">
+      <Filter>Fichiers sources\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies</Filter>
+    </ClCompile>
+    <ClCompile Include="InGame.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectBox.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Eventable.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlsManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers\Input Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="dist\jsoncpp.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Manager.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditsMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogBox.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogText.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveSystem.cpp">
+      <Filter>Fichiers sources\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Bar.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressionBar.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopButton.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Debuger.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="CandleRiddle.cpp">
+      <Filter>Fichiers sources\InGame Classes\Riddles</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterMenuButton.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularSelect.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="PieChart.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Tiled.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageButton.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Crate.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveButton.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\TextDamage.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\FightingMiniGames.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedSprite.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuNPC.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="VerticalScrollMenu.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Fichiers sources\InGame Classes\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="WarpManager.cpp">
+      <Filter>Fichiers sources\InGame Classes\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="SellerNPC.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="BoolManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Bleeding.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="Burning.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="Status.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="Particles\Particle.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="Particles\ParticleShape.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="Particles\ParticleSystem.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="WallRiddle.cpp">
+      <Filter>Fichiers sources\InGame Classes\Riddles</Filter>
+    </ClCompile>
+    <ClCompile Include="Lilboo.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="SavePoint.cpp">
+      <Filter>Fichiers sources\InGame Classes\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="PropsManager.cpp">
+      <Filter>Fichiers sources\InGame Classes\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackBuff.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakAttack.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakDef.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="DefBuff.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfirmMenu.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplorationState.cpp">
+      <Filter>Fichiers sources\InGame Classes\PhaseStates</Filter>
+    </ClCompile>
+    <ClCompile Include="FightingState.cpp">
+      <Filter>Fichiers sources\InGame Classes\PhaseStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Consumable.cpp">
+      <Filter>Fichiers sources\InGame Classes\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemOnGround.cpp">
+      <Filter>Fichiers sources\InGame Classes\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Fichiers sources\InGame Classes\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Tie.cpp">
+      <Filter>Fichiers sources\InGame Classes\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="PhaseState.cpp">
+      <Filter>Fichiers sources\InGame Classes\PhaseStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Poison.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="Immunity.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="AntiBuff.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\BossCandleMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\BoxerMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\CandleMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\ZombieMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\FireBallMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="FrankenchefMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Checkbox.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\KnightMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameDatas.cpp">
+      <Filter>Fichiers sources\InGame Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\BigBooMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\MusicMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedBackground.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="TutoMenu.cpp">
+      <Filter>Fichiers sources\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Stun.cpp">
+      <Filter>Fichiers sources\InGame Classes\Status</Filter>
+    </ClCompile>
+    <ClCompile Include="SellMenu.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="LightPoint.cpp">
+      <Filter>Fichiers sources\Common\CommonLibrairies\Creators</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Fichiers sources\InGame Classes\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="Encounter.cpp">
+      <Filter>Fichiers sources\InGame Classes\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="FightingBoxes.cpp">
+      <Filter>Fichiers sources\InGame Classes\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="FightingHUD.cpp">
+      <Filter>Fichiers sources\InGame Classes\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighting\VampireMiniGame.cpp">
+      <Filter>Fichiers sources\InGame Classes\Fights\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogMap.cpp">
+      <Filter>Fichiers sources\InGame Classes\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogManager.cpp">
+      <Filter>Fichiers sources\InGame Classes\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Warp.cpp">
+      <Filter>Fichiers sources\InGame Classes\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="LilBooBox.cpp">
+      <Filter>Fichiers sources\InGame Classes\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="NewTimer.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common.hpp">
+      <Filter>Fichiers d%27en-tête\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Collisions.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Easings.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies</Filter>
+    </ClInclude>
+    <ClInclude Include="State.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Base Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers\Input Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers\Input Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="FontsManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Definitions.hpp">
+      <Filter>Fichiers d%27en-tête\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="TexturesManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyInput.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Select.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PreMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScreen.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Introduction.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadersManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Base Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameData.hpp">
+      <Filter>Fichiers d%27en-tête\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="Shapes.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClock.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies</Filter>
+    </ClInclude>
+    <ClInclude Include="InGame.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectBox.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Eventable.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlsManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers\Input Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="dist\json\json.h">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="dist\json\json-forwards.h">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Manager.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditsMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogText.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogBox.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveSystem.hpp">
+      <Filter>Fichiers d%27en-tête\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Bar.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressionBar.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameDatas.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopButton.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Debuger.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="CandleRiddle.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Riddles</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterMenuButton.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularSelect.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="PieChart.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Tiled.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageButton.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Crate.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveButton.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\TextDamage.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\FightingMiniGames.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights</Filter>
+    </ClInclude>
+    <ClInclude Include="WinMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedSprite.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuNPC.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="VerticalScrollMenu.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="WarpManager.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="BoolManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SellerNPC.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="Status.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="Burning.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="Bleeding.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="Particles\Particle.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="Particles\ParticleShape.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="Particles\ParticleSystem.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="WallRiddle.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Riddles</Filter>
+    </ClInclude>
+    <ClInclude Include="PropsManager.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="SavePoint.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackBuff.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakAttack.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakDef.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="DefBuff.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfirmMenu.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Poison.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="Immunity.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="AntiBuff.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\BossCandleMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="FrankenchefMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\BoxerMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\CandleMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\FireBallMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\ZombieMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemOnGround.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Tie.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Consumable.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ExplorationState.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\PhaseStates</Filter>
+    </ClInclude>
+    <ClInclude Include="FightingState.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\PhaseStates</Filter>
+    </ClInclude>
+    <ClInclude Include="PhaseState.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\PhaseStates</Filter>
+    </ClInclude>
+    <ClInclude Include="Checkbox.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\KnightMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\BigBooMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\MusicMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedBackground.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="TutoMenu.hpp">
+      <Filter>Fichiers d%27en-tête\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Stun.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Status</Filter>
+    </ClInclude>
+    <ClInclude Include="SellMenu.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Menu Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="LightPoint.hpp">
+      <Filter>Fichiers d%27en-tête\Common\CommonLibrairies\Creators</Filter>
+    </ClInclude>
+    <ClInclude Include="Encounter.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\HUD</Filter>
+    </ClInclude>
+    <ClInclude Include="FightingBoxes.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\HUD</Filter>
+    </ClInclude>
+    <ClInclude Include="FightingHUD.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\HUD</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\HUD</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighting\VampireMiniGame.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Fights\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogMap.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogManager.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="Lilboo.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Entity\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="Warp.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="LilBooBox.hpp">
+      <Filter>Fichiers d%27en-tête\InGame Classes\Dialog</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

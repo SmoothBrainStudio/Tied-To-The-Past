@@ -1,0 +1,22 @@
+{
+  "data": {
+    "name": "MUSIC_CHARGING_ATTACK",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "MUSIC_CHARGING_ATTACK_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_CHARGING_ATTACK_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_CHARGING_ATTACK_2",
+      "duration": 0.1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "FRANKENCHIEF_SPECIAL",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "FRANKENCHIEF_SPECIAL_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_SPECIAL_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_SPECIAL_3",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_SPECIAL_4",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_SPECIAL_5",
+      "duration": 0.2
+    }
+  ]
+}

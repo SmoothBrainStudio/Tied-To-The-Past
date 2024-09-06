@@ -1,0 +1,47 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "It is written: \""
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "painting painted \nby "
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#008000",
+        "value": "Mibooel Ange"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "\"."
+      }
+    ],
+    "paragraph": {
+      "box": "BUBLE_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "sound": "DIALOG_PLAYER_SOUND"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "name": "MISSED_PUNCH",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "MISSED_PUNCH_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "MISSED_PUNCH_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "MISSED_PUNCH_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "MISSED_PUNCH_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "MISSED_PUNCH_4",
+      "duration": 0.1
+    }
+  ]
+}

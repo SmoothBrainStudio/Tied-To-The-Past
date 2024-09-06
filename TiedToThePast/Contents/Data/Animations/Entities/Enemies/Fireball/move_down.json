@@ -1,0 +1,30 @@
+{
+  "data": {
+    "name": "FIREBALL_MOVE_DOWN",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "FIREBALL_MOVEDOWN_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_MOVEDOWN_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_MOVEDOWN_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_MOVEDOWN_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "FIREBALL_MOVEDOWN_4",
+      "duration": 0.1
+    }
+  ]
+}

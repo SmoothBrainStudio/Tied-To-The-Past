@@ -1,0 +1,63 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "\""
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "The scientists made "
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#358BAA",
+        "value": "B0 "
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "and "
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#F38020",
+        "value": "J1"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#000000",
+        "value": "\"."
+      }
+    ],
+    "paragraph": {
+      "box": "NORMAL_DIALOG_BOX",
+      "align": 2,
+      "size": 24.0,
+      "animation": {
+        "timeByCharacter": 100.0
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

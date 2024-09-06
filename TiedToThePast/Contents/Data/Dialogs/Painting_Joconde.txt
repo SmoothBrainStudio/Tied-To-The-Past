@@ -1,0 +1,3 @@
+IS_DIALOG
+Contents/Data/Texts/Painting_Joconde_0.json
+Contents/Data/Texts/Painting_Joconde_1.json

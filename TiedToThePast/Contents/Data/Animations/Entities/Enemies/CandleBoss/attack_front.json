@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "CANDLEBOSS_ATTACK_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "CANDLEBOSS_ATTACK_FRONT_0",
+      "duration": 0.25
+    },
+    {
+      "texture": "CANDLEBOSS_ATTACK_FRONT_1",
+      "duration": 0.25
+    },
+    {
+      "texture": "CANDLEBOSS_ATTACK_FRONT_2",
+      "duration": 0.25
+    },
+    {
+      "texture": "CANDLEBOSS_ATTACK_FRONT_3",
+      "duration": 0.25
+    }
+  ]
+}

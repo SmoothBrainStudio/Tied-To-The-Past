@@ -1,0 +1,2 @@
+IS_DIALOG
+Contents/Data/Texts/Painting_Mibooel.json

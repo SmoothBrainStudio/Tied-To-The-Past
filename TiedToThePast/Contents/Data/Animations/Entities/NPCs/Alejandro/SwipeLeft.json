@@ -1,0 +1,46 @@
+{
+  "data": {
+    "name": "SELLER_SWIPE_LEFT",
+    "speed": 1.6,
+    "loop": false,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "SELLER_SWIPE_LEFT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "SELLER_SWIPE_LEFT_7",
+      "duration": 0.1
+    }
+  ]
+}

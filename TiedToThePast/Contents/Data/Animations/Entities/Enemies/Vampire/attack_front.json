@@ -1,0 +1,38 @@
+{
+  "data": {
+    "name": "VAMPIRE_ATTACK_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "VAMPIRE_ATTACKFRONT_6",
+      "duration": 0.1
+    }
+  ]
+}

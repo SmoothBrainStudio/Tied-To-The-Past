@@ -1,0 +1,4 @@
+63.1578
+Contents/Data/Tiled/Maps/MainEntrance.json
+200 0 1 494.296 1241.26 494.296 951.59 2 BOXER 0 KEY_MANSION 
+999 999 999 999 1

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "name": "FRANKENCHIEF_IDLE_FRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true,
+    "origin": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "animation": [
+    {
+      "texture": "FRANKENCHIEF_IDLE_FRONT_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_IDLE_FRONT_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_IDLE_FRONT_2",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_IDLE_FRONT_3",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_IDLE_FRONT_4",
+      "duration": 0.2
+    },
+    {
+      "texture": "FRANKENCHIEF_IDLE_FRONT_5",
+      "duration": 0.2
+    }
+  ]
+}

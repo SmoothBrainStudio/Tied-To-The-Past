@@ -1,0 +1,2 @@
+CIRCULAR_PIECE_0 Contents/Assets/Sprites/UI/HUD/CircularPiece/CircularPiece_0.png
+CIRCULAR_PIECE_1 Contents/Assets/Sprites/UI/HUD/CircularPiece/CircularPiece_1.png

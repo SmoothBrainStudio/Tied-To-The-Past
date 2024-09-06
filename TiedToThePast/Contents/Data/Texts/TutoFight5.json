@@ -1,0 +1,27 @@
+{
+  "text": {
+    "content": [
+      {
+        "bold": false,
+        "italic": false,
+        "underlined": false,
+        "strikethrough": false,
+        "color": "#ffffff",
+        "value": "Dodge & Counter"
+      }
+    ],
+    "paragraph": {
+      "box": "",
+      "align": 2,
+      "size": 48.0,
+      "animation": {
+        "timeByCharacter": 0.0
+      },
+      "outline": {
+        "thickness": 2,
+        "color": "#000000"
+      },
+      "sound": "DIALOG_SOUND"
+    }
+  }
+}

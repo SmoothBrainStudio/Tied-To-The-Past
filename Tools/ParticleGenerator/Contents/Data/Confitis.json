@@ -1,0 +1,71 @@
+{
+  "Duration": 1.0,
+  "RateByTime": 1000,
+  "MaxParticle": 1000,
+
+  "Shape": {
+    "type": 1,
+    "radius": 500.0,
+    "angle": 0.0
+  },
+
+  "Burst": [],
+
+  "Mass": 5.0,
+  "LinearDamping": 1.0,
+  "GravityScale": 0.5,
+
+  "Loop": true,
+  "StartAwake": true,
+  "IsSmooth": true,
+  "Texture": "Contents/Assets/Sprites/particle1.png",
+
+  "StartColor": {
+    "type": "random",
+    "value": [ "#ff0000", "#ffff00" ]
+  },
+  "StartRotation": {
+    "type": "random",
+    "value": [ -45.0, 45.0 ]
+  },
+  "StartScale": {
+    "type": "random",
+    "value": [ 0.25, 1.0 ]
+  },
+  "StartSpeed": {
+    "type": "random",
+    "value": [ 1000.0, 2000.0 ]
+  },
+
+  "ColorOverTime": {
+    "enable": false,
+    "max": "#ff0000",
+    "min": "#ff7700"
+  },
+  "RotationOverTime": {
+    "enable": false,
+    "max": 50.0,
+    "min": -15.0
+  },
+  "ScaleOverTime": {
+    "enable": false,
+    "max": 1.0,
+    "min": 0.0
+  },
+
+  "ColorOverSpeed": {
+    "enable": false,
+    "max": "#ff7700",
+    "min": "#ff0000"
+  },
+  "RotationOverSpeed": {
+    "enable": false,
+    "max": 50.0,
+    "min": -15.0
+  },
+  "ScaleOverSpeed": {
+    "enable": false,
+    "max": 0.0,
+    "min": 1.0
+  }
+}

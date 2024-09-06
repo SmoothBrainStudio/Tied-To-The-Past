@@ -1,0 +1,14 @@
+{
+  "data": {
+    "name": "KNIGHT_IDLE_FRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "KNIGHT_IDLEFRONT_0",
+      "duration": 1.0
+    }
+  ]
+}

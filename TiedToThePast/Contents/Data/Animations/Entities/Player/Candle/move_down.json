@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "CANDLE_MOVE_DOWN",
+    "speed": 1.3,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "CANDLE_MOVEDOWN_0",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_1",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_2",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_3",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_4",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_5",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_6",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_7",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_8",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_9",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_10",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_11",
+      "duration": 0.077
+    },
+    {
+      "texture": "CANDLE_MOVEDOWN_12",
+      "duration": 0.077
+    }
+  ]
+}

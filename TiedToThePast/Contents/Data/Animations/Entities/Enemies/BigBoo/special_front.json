@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "BIGBOO_SPECIAL",
+    "speed": 0.5,
+    "loop": false,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BIGBOO_SPECIAL_0",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_1",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_2",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_3",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_4",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_5",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_6",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_7",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_8",
+      "duration": 0.09
+    },
+    {
+      "texture": "BIGBOO_SPECIAL_9",
+      "duration": 0.09
+    }
+  ]
+}

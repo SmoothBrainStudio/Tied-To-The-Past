@@ -1,0 +1,2 @@
+IS_DIALOG
+Contents/Data/Texts/Garden1.json

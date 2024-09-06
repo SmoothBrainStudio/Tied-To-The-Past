@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "MUSIC_DEATH_FRONT",
+    "speed": 1.0,
+    "loop": false,
+    "startAwake": false
+  },
+  "animation": [
+    {
+      "texture": "MUSIC_DEATH_FRONT_0",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_1",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_2",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_3",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_4",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_5",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_6",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_7",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_8",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_9",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_10",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_11",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_12",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_13",
+      "duration": 0.1
+    },
+    {
+      "texture": "MUSIC_DEATH_FRONT_14",
+      "duration": 0.1
+    }
+  ]
+}

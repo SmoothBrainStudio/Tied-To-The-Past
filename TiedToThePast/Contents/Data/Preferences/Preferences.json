@@ -1,0 +1,34 @@
+{
+	"audio" : 
+	{
+		"music" : 50.0,
+		"sound" : 50.0
+	},
+	"other" : 
+	{
+		"iconPath" : "Contents/Assets/Sprites/UI/Logos/Icon.png"
+	},
+	"video" : 
+	{
+		"framerateLimit" : 144,
+		"settings" : 
+		{
+			"antialiasing" : 8,
+			"attributes" : 0,
+			"depth" : 0,
+			"major" : 1,
+			"minor" : 1,
+			"sRgb" : false,
+			"stencil" : 0
+		},
+		"style" : 8,
+		"title" : "Tied To The Past",
+		"verticalSync" : false,
+		"videoMode" : 
+		{
+			"bitsPerPixel" : 32,
+			"height" : 1080,
+			"width" : 1920
+		}
+	}
+}

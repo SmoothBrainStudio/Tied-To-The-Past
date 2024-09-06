@@ -1,0 +1,42 @@
+{
+  "data": {
+    "name": "BOXER_IDLE_FRONT",
+    "speed": 1.0,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BOXER_IDLEFRONT_0",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_1",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_2",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_3",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_4",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_5",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_6",
+      "duration": 0.125
+    },
+    {
+      "texture": "BOXER_IDLEFRONT_7",
+      "duration": 0.125
+    }
+  ]
+}

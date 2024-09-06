@@ -1,0 +1,22 @@
+{
+  "data": {
+    "name": "BAT",
+    "speed": 2.5,
+    "loop": true,
+    "startAwake": true
+  },
+  "animation": [
+    {
+      "texture": "BAT_0",
+      "duration": 0.2
+    },
+    {
+      "texture": "BAT_1",
+      "duration": 0.2
+    },
+    {
+      "texture": "BAT_2",
+      "duration": 0.2
+    }
+  ]
+}
