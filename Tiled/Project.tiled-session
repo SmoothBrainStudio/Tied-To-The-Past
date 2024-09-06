@@ -1,15 +1,17 @@
 {
     "activeFile": "",
     "expandedProjectPaths": [
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets",
-        "World",
-        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled",
         "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Maps",
-        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled",
-        "Templates",
-        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled",
+        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets",
         ".",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled",
+        "World",
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled",
         "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps",
+        "B:/SVN/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets",
         "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled"
     ],
     "fileStates": {
@@ -272,30 +274,140 @@
         },
         "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Riddles.json": {
             "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Bigboo.json": {
+            "expandedObjectLayers": [
+                9,
+                3
+            ],
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1040,
+                "y": 5896
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Corridor.json": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208,
+                "y": 952
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Entrance.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1608,
+                "y": -304
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Garden.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2624,
+                "y": 352
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Hallway.json": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1024,
+                "y": 1064
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Kitchen.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3912,
+                "y": 5008
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/LeftMainRoom.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3848,
+                "y": 1856
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/MainEntrance.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1776,
+                "y": 1856
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/VampireRoom.json": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -1912,
+                "y": -2400
+            }
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/BackgroundProps.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/BigProps.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.125
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Debug.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Enemies.json": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Entities.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Npcs.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Props.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Riddles.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.5
         }
     },
     "loadedWorlds": [
         "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/Tiled/World/Floor1.world",
         "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/Tiled/World/Floor2.world",
         "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/Tiled/World/GroundFloor.world",
-        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/Tiled/World/Floor1.world",
-        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Projet/Tiled/World/Floor2.world"
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Tiled/World/Floor1.world",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/Tiled/World/GroundFloor.world"
     ],
     "openFiles": [
     ],
     "project": "Project.tiled-project",
     "recentFiles": [
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Corridor.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Npcs.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Riddles.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Entities.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Enemies.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BackgroundProps.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/BigProps.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Debug.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Tilesets/Props.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/RightMainRoom.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/LeftMainRoom.json",
-        "B:/SVN/22-23 Creajeux/22-23 Projet fin d'année/Prog/Projet/x64/Debug/Contents/Data/Tiled/Maps/Garden.json"
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/VampireRoom.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Hallway.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Corridor.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/LeftMainRoom.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Garden.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Kitchen.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Bigboo.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/BackgroundProps.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/Debug.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Tilesets/BigProps.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/MainEntrance.json",
+        "C:/Users/Enzo BERTI/Documents/Sfml/Tied-To-The-Past/TiedToThePast/Contents/Data/Tiled/Maps/Entrance.json"
     ]
 }

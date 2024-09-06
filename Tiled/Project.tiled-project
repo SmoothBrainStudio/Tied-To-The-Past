@@ -4,8 +4,7 @@
     ],
     "extensionsPath": "extensions",
     "folders": [
-        ".",
-        "../x64/Debug/Contents/Data/Tiled"
+        "."
     ],
     "propertyTypes": [
     ]
