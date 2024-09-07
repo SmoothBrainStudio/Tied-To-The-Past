@@ -1,6 +1,6 @@
 #include "Definitions.hpp"
 #include "Fade.hpp"
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 Fade::Fade(const float& _timerMax, const bool& _isFadingIn, const bool& _isFadingOut)
 {

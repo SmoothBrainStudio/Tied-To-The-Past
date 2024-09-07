@@ -2,6 +2,7 @@
 #define CIRCULAR_MENU__HPP
 #include "State.hpp"
 #include "CircularSelect.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 class CircularMenu : public State
 {

@@ -1,6 +1,7 @@
 #include "Definitions.hpp"
 #include "ExplorationState.hpp"
 #include "LoadingScreen.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 ExplorationState::~ExplorationState()
 {

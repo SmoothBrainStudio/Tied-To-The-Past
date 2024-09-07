@@ -1,5 +1,6 @@
 #include "Definitions.hpp"
 #include "TutoMenu.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 TutoMenu::TutoMenu(GameData& _gameData, const std::vector<std::string>& _tutoTextureKeys, const std::vector<std::string>& _descriptionPaths, const std::string& _tutoID)
 {

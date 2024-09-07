@@ -2,6 +2,7 @@
 #include "Screen.hpp"
 #include "DrawManager.hpp"
 #include "ControlsManager.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 Screen::~Screen()
 {

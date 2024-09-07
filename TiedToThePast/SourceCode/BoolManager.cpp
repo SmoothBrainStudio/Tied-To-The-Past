@@ -1,5 +1,6 @@
 #include "Definitions.hpp"
 #include "BoolManager.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 BoolManager& BoolManager::Get(void)
 {

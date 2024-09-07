@@ -4,6 +4,7 @@
 #include "Definitions.hpp"
 #include "Button.hpp"
 #include "DialogBox.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 class Tutorial : public sf::Drawable, public sf::Transformable
 {

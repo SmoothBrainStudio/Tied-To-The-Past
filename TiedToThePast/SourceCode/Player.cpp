@@ -11,6 +11,7 @@
 #include "Immunity.hpp"
 #include "AntiBuff.hpp"
 #include "Stun.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 Player::Player(void) : Entity()
 {

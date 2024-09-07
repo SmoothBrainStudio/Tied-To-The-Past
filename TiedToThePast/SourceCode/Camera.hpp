@@ -2,6 +2,7 @@
 #define CAMERA__HPP
 #include "Definitions.hpp"
 #include "Screen.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 static constexpr float SHAKE_INTENSITY = 10.f;
 static constexpr float SHAKE_DURATION = 1.f;

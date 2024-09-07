@@ -1,5 +1,6 @@
 #include "Camera.hpp"
 #include "Player.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 Camera::Camera(Player& _player)
 {

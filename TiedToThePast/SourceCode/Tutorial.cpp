@@ -1,5 +1,6 @@
 #include "Definitions.hpp"
 #include "Tutorial.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 Tutorial::Tutorial(const std::vector<std::string>& _tutoTextureKeys, const std::vector<std::string>& _descriptionPaths, const std::string& _keyDraw)
 {

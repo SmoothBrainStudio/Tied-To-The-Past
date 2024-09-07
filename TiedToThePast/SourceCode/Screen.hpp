@@ -3,6 +3,7 @@
 
 #include "Definitions.hpp"
 #include "JsonManager.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 static constexpr unsigned int WORKING_WIDTH = 1920;
 static constexpr unsigned int WORKING_HEIGHT = 1080;

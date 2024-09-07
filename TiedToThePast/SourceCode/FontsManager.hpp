@@ -2,7 +2,7 @@
 #define FONTS_MANAGER__HPP
 
 #include "Definitions.hpp"
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 class FontsManager
 {
 public:

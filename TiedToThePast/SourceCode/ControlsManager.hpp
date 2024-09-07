@@ -2,6 +2,7 @@
 #define CONTROLS__MANAGER__HPP
 
 #include "Common.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 static constexpr float JOYSTICK_MIN_STEP = 50.f;
 static constexpr float JOYSTICK_MAX_STEP = 75.f;

@@ -1,6 +1,7 @@
 #include "Definitions.hpp"
 #include "CircularMenu.hpp"
 #include "CircularSelect.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 CircularMenu::CircularMenu(sf::Texture& _texture, const int& _nbPieces, const std::vector<std::string>& _tiesName)
 {

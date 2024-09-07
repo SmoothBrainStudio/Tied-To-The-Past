@@ -1,5 +1,6 @@
 #include "Definitions.hpp"
 #include "FontsManager.hpp"
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 FontsManager& FontsManager::Get(void)
 {

@@ -1,6 +1,6 @@
 #ifndef BOOL_MANAGER__HPP
 #define BOOL_MANAGER__HPP
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 class BoolManager
 {
 public:
