@@ -1,6 +1,6 @@
 #include "Definitions.hpp"
 #include "DrawManager.hpp"
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 DrawManager& DrawManager::Get(void)
 {

@@ -1,6 +1,6 @@
 #include "Definitions.hpp"
 #include "TexturesManager.hpp"
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 TexturesManager& TexturesManager::Get(void)
 {

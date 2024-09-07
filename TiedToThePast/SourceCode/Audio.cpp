@@ -1,6 +1,6 @@
 #include "Definitions.hpp"
 #include "Audio.hpp"
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 
 Audio& Audio::Get(void)
 {

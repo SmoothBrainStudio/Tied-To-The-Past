@@ -1,6 +1,6 @@
 #include "Definitions.hpp"
 #include "ShadersManager.hpp"
-
+//Copyright 2024 Property of Olivier Maurin.All rights reserved.
 ShadersManager& ShadersManager::Get(void)
 {
 	static ShadersManager myInstance;
