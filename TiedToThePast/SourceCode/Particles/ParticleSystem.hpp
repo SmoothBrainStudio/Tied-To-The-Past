@@ -1,3 +1,4 @@
+// Unity-inspired particle system
 #ifndef PARTICLE_SYSTEM__HPP
 #define PARTICLE_SYSTEM__HPP
 
