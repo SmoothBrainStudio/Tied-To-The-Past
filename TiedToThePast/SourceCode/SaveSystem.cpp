@@ -1,6 +1,11 @@
 #include "Definitions.hpp"
 #include "SaveSystem.hpp"
 
+SaveSystem::SaveSystem(void)
+{
+    std::filesystem::create_directory(SAVES_PATH);
+}
+
 SaveSystem& SaveSystem::Get(void)
 {
     static SaveSystem myInstance;
@@ -9,15 +14,16 @@ SaveSystem& SaveSystem::Get(void)
 
 std::vector<std::string> SaveSystem::GetAllSaveNames()
 {
-    std::vector<std::string> files;
+    std::vector<std::string> savesName;
+
     for (const auto& entry : std::filesystem::directory_iterator(SAVES_PATH))
     {
         if (entry.path().extension() == ".txt")
         {
-            files.push_back(entry.path().stem().string());
+            savesName.push_back(entry.path().stem().string());
         }
     }
-    return files;
+    return savesName;
 }
 
 bool SaveSystem::CheckIfSaveExists(const std::string& _saveName)

@@ -29,7 +29,7 @@ public:
 	void SelectLastSave();
 
 private:
-	SaveSystem() = default;
+	SaveSystem();
 
 	std::string currentFileName;
 };
