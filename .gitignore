@@ -392,6 +392,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+TiedToThePast/SourceCode/x64
 TiedToThePast/x64/Release/Tied To The Past.exe
 TiedToThePast/x64/Release/Tied To The Past.pdb
 TiedToThePast/x64/Debug/Tied To The Past.exe
